@@ -6,6 +6,10 @@
 ## Trailer link : https://www.youtube.com/watch?v=eTp8AeWimZU
 ##
 
+
+https://user-images.githubusercontent.com/76734056/163628235-730fd85f-e4dd-49ab-a0b0-f2f718ee24ab.mp4
+
+
 ### Mobile Screenshots
 
  <div class="row"> 
